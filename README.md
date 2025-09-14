@@ -1,1 +1,1 @@
-This is a recipe website I am creating to solidify what I am learnig about website development.
+This is a recipe website I am creating to solidify what I am learning about website development.
