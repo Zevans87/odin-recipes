@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe website I am creating to solidify what I am learnig about website development.
